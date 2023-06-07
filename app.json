@@ -1,0 +1,30 @@
+{
+  "expo": {
+    "name": "iTravel",
+    "slug": "iTravel",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/travelicon3.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/travelicon3.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
